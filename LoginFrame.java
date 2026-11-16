@@ -4,10 +4,6 @@
  */
 package com.hotel.vista;
 
-/**
- *
- * @author ordon
- */
 import com.hotel.controlador.GestorHotel;
 import javax.swing.*;
 import java.awt.*;
